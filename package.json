@@ -1,0 +1,20 @@
+{
+  "name": "neutrino-preset-react-components-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eli Perelman <eli@eliperelman.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "neutrino start",
+    "build": "neutrino build"
+  },
+  "devDependencies": {
+    "neutrino": "^6.1.5",
+    "neutrino-preset-react-components": "^2.1.1"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-dom": "^15.6.1"
+  }
+}
