@@ -8,8 +8,6 @@ export default class HelloWorld extends React.PureComponent {
   constructor(props) {
     super(props);
 
-    console.log(this.props.initialColor);
-
     this.state = {
       color: this.props.initialColor
     };
